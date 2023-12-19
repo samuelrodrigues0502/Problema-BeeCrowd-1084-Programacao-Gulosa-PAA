@@ -25,11 +25,13 @@ Entrada 1:</br>
 3759</br>
 Saída 1:</br>
 79</br>
+</br>
 Entrada 2:</br>
 6 3</br>
 123123</br>
 Saída 2:</br>
 323</br>
+</br>
 Entrada 3:</br>
 0 0</br>
 Saída 3:</br>
