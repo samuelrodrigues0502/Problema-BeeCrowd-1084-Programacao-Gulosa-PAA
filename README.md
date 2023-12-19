@@ -19,9 +19,9 @@ SAÍDA
 Para cada caso de teste da entrada, seu programa deve imprimir uma única linha na saída, contendo o maior prêmio que Juliano pode ganhar.
 
 
-Exemplo de Entrada<p>    Exemplo de Saída
-4 2<p> 
-3759<p>                   79
+Exemplo de Entrada<p>    Exemplo de Saída</p></br>
+4 2</br>
+3759<p>                   79</p></br>
 6 3<p> 
 123123<p>                 323
 7 4<p> 
